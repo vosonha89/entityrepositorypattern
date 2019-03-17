@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EntityRepository/.vs/EntityRepository/v15
+/EntityRepository/EntityRepository.Core/bin/Debug
+/EntityRepository/EntityRepository.Core/obj
+/EntityRepository/EntityRepository.EF/obj/Debug
+/EntityRepository/packages

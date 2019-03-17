@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityRepository.Core", "EntityRepository.Core\EntityRepository.Core.csproj", "{A03EB689-AF87-493B-B291-E4B10BE0210D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityRepository.EF", "EntityRepository.EF\EntityRepository.EF.csproj", "{EF9515CD-EDBB-4912-AEEC-F6F6409DFB5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03EB689-AF87-493B-B291-E4B10BE0210D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03EB689-AF87-493B-B291-E4B10BE0210D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03EB689-AF87-493B-B291-E4B10BE0210D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03EB689-AF87-493B-B291-E4B10BE0210D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9515CD-EDBB-4912-AEEC-F6F6409DFB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9515CD-EDBB-4912-AEEC-F6F6409DFB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9515CD-EDBB-4912-AEEC-F6F6409DFB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9515CD-EDBB-4912-AEEC-F6F6409DFB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30010AEA-728E-414E-8930-4B8021749EA1}
+	EndGlobalSection
+EndGlobal
